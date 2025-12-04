@@ -8,6 +8,8 @@ public class JenkinsPracticeTest {
 	@Test
 	public void jenkinsPracticeTest() {
 		Reporter.log("HII JENKINS", true);
+		Reporter.log("BYE JENKINS", true);
+		
 	}
 
 }
